@@ -1,0 +1,10 @@
+C:\Users\AXEN-JR48Q12\source\repos\PatronesDiseño\Visitor\bin\Debug\netcoreapp2.2\Visitor.deps.json
+C:\Users\AXEN-JR48Q12\source\repos\PatronesDiseño\Visitor\bin\Debug\netcoreapp2.2\Visitor.runtimeconfig.json
+C:\Users\AXEN-JR48Q12\source\repos\PatronesDiseño\Visitor\bin\Debug\netcoreapp2.2\Visitor.runtimeconfig.dev.json
+C:\Users\AXEN-JR48Q12\source\repos\PatronesDiseño\Visitor\bin\Debug\netcoreapp2.2\Visitor.dll
+C:\Users\AXEN-JR48Q12\source\repos\PatronesDiseño\Visitor\bin\Debug\netcoreapp2.2\Visitor.pdb
+C:\Users\AXEN-JR48Q12\source\repos\PatronesDiseño\Visitor\obj\Debug\netcoreapp2.2\Visitor.csproj.CoreCompileInputs.cache
+C:\Users\AXEN-JR48Q12\source\repos\PatronesDiseño\Visitor\obj\Debug\netcoreapp2.2\Visitor.AssemblyInfoInputs.cache
+C:\Users\AXEN-JR48Q12\source\repos\PatronesDiseño\Visitor\obj\Debug\netcoreapp2.2\Visitor.AssemblyInfo.cs
+C:\Users\AXEN-JR48Q12\source\repos\PatronesDiseño\Visitor\obj\Debug\netcoreapp2.2\Visitor.dll
+C:\Users\AXEN-JR48Q12\source\repos\PatronesDiseño\Visitor\obj\Debug\netcoreapp2.2\Visitor.pdb
